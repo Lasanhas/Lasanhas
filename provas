@@ -1,0 +1,41 @@
+<! -- Index -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+            <meta charset="utf-8"/>
+            <title> Atividade Avaliativa</title>
+
+    </head>
+    <body bgcolor="gray">
+
+        <figure><center><a href="https://google.com/"><img src="secoes/imagens/google.png" width="25%" height="25%"></a></center></figure>
+
+        <font size="6" color="red">
+        <ul type="square">
+
+         
+                <li>
+               <h1><i><a href="index.html">Menu</a></i></h1>
+
+                <ul type="circle">
+
+                <font size="7" color="red">
+               <li>
+                <u><a href="secoes/provaanimes.html">Prova sobre Animes</a></u>
+                </li>
+            
+                <li>
+                <u><a href="secoes/provafilmes.html">Prova sobre Filmes</a></u>
+                </li>
+
+                <li>
+                <u><a href="secoes/provaseries.html">Prova sobre Séries</a></u>
+                </li>
+                </ul>
+            </li>
+            </font>
+        </ul>
+    </font>
+    </body>
+</html>
