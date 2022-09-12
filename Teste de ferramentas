@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Atividade Avaliativa</title>
+    </head>
+
+    <body>
+       <b>Olá, mundo!</b>
+
+       <h1>testando
+       </h1>
+       <h2>é isso</h2>
+       <h3>testando ferramentas</h3>
+       <h4>ja era</h4>
+       <h5>show de bola</h5>
+       <h6>bora lá</h6>
+       <i>mamma mia</i>
+       <u>bon giorno</u>
+       120<sup>2</sup>=14400
+       h<sub>2</sub>o
+    </body>
+</html>
